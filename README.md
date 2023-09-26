@@ -3,8 +3,8 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td text-align:  center>Основное меню:</td>
-			<td>Выбранная статья:</td>
+			<td align="center">Основное меню:</td>
+			<td align="center">Выбранная статья:</td>
 		</tr>
 		<tr>
 			<td>
