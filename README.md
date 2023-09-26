@@ -3,7 +3,7 @@
 <table class="iksweb">
 	<tbody>
 		<tr>
-			<td>Основное меню:</td>
+			<td align="center>Основное меню:</td>
 			<td>Выбранная статья:</td>
 		</tr>
 		<tr>
